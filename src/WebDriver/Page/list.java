@@ -4,7 +4,9 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 
-public class testlist {
+public class list
+{
+	
 	
 	public static void main(String[] args) 
 	{
@@ -25,5 +27,6 @@ public class testlist {
 		System.out.println(buttonname);
 		driver.close();
 	}
+
 
 }
